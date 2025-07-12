@@ -1,0 +1,1 @@
+alert("Welcome to E2K screen printing official Website!");
